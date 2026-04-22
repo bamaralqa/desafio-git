@@ -1,1 +1,4 @@
-Texto alterado na main
+Conteúdo final após resolução de conflito:
+- Texto alterado na main
+- Texto alterado na branch
+
